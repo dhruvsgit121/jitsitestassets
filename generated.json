@@ -1,0 +1,12 @@
+{
+  "logo": {
+    "url": "https://your-server.com/path/to/logo.png",
+    "width": 250,
+    "height": 80
+  },
+  "background": {
+    "url": "https://github.com/dhruvsgit121/jitsitestassets/blob/a2bf954160c17d2435c34abd7d624fceec91d735/bg.png"
+  },
+  "brandColor": "#0066cc",
+  "showBranding": true
+}
